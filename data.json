@@ -1,32 +1,20 @@
 [
   {
-    "name": "Python problem test",
-    "category": "Python",
-    "date": "2026-08-20",
-    "link": "https://www.linkedin.com/in/altamashsameer/"
-  },
-  {
-    "name": "Untitled",
-    "category": "Other",
-    "date": "N/A",
-    "link": "#"
-  },
-  {
-    "name": "Untitled",
-    "category": "Other",
-    "date": "N/A",
-    "link": "#"
-  },
-  {
-    "name": "SQL problem test",
+    "name": "Manufacturer Sales Performance vs Average",
     "category": "SQL",
-    "date": "2026-08-20",
-    "link": "https://www.linkedin.com/in/altamashsameer/"
+    "date": "2026-08-21",
+    "link": "https://www.dailysql.in/practice/daily/07993233-3fc3-4efc-b2a5-003760553c22?tab=list"
   },
   {
-    "name": "Project test",
-    "category": "Project",
-    "date": "2026-08-20",
-    "link": "https://www.linkedin.com/in/altamashsameer/"
+    "name": "Support Ticket Status Distribution | Coder Pad @Zendesk",
+    "category": "SQL",
+    "date": "2026-08-21",
+    "link": "https://www.dailysql.in/practice/daily/1c9870be-19b5-4d12-9c48-7f010e9a1662?tab=list"
+  },
+  {
+    "name": "Total Drug Sales by Manufacturer",
+    "category": "SQL",
+    "date": "2026-08-21",
+    "link": "https://www.dailysql.in/practice/daily/c5e7e2bd-f48a-45a5-b09b-fc0dfedb8665?tab=list"
   }
 ]
